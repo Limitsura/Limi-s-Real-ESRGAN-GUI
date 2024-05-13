@@ -5,9 +5,9 @@
 
 **Note:** Currenty, this app is in its super-early development state, so expect many bugs and a wierd experience using this (meantime i apologize for every inconvenient).
 
-**PS: Currently only supports the `realsr-animevideov3` model from Real-ESRGAN.**
+**PS: Currently only supports the** `realsr-animevideov3` **model from Real-ESRGAN.**
 
-**PS 2: The "Video" tab is still in development, but i plan adding the option to upscale entire video's in the future, just wait me some time 😴.**
+**PS 2: The "Video" tab is still in development, but i plan adding the option to upscale entire videos in the future, just wait me some time 😴.**
 
 ## Still here? So get started! 👀
 
