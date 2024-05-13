@@ -1,6 +1,7 @@
 <h1 align = "center"> Limi's Real-ESRGAN GUI. </h1>
 <p align = "center"> A simple (and weird) graphical user interface for <a href = "https://github.com/xinntao/Real-ESRGAN"> Xintao's Real-ESRGAN AI. </a> </p>
 
+**Photo taken from version 1.05.**
 <p align="center"> <img src="https://cdn.discordapp.com/attachments/1239446558320103444/1239446731494522990/img.png?ex=6642f438&is=6641a2b8&hm=381ff4905dd7a5925197bf1a298367b9159022ea6f9b2280c7f51a9f74012291&" alt="app_sample"> </p>
 
 **Note:** Currenty, this app is in its super-early development state, so expect many bugs and a wierd experience using this (meantime i apologize for every inconvenient).
