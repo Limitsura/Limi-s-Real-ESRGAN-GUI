@@ -2,7 +2,7 @@
 <p align = "center"> A simple (and weird) graphical user interface for <a href = "https://github.com/xinntao/Real-ESRGAN"> Xintao's Real-ESRGAN AI.</a> </p>
 
 <p align="center"> 
-  <img src="https://cdn.discordapp.com/attachments/1239446558320103444/1239446731494522990/img.png?ex=6642f438&is=6641a2b8&hm=381ff4905dd7a5925197bf1a298367b9159022ea6f9b2280c7f51a9f74012291&" alt="app_sample"> 
+  <img src="https://cdn.discordapp.com/attachments/1239446558320103444/1239808459998756935/img.png?ex=6644451b&is=6642f39b&hm=e3254cf889da4338b9d12bdbe33cd77e974c0d8f2d9efeed115016feca80b8a8&" alt="app_sample"> 
 </p>
 
 **Note:** Currenty, this app is in its super-early development state, so expect many bugs and a wierd experience using this (meantime i apologize for every inconvenient).
