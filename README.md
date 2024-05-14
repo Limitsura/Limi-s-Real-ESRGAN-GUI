@@ -11,18 +11,25 @@
 
 **PS 2:** The "Video" tab is still in development, but i plan adding the option to upscale entire videos in the future, just wait me some time 😴.
 
+‎ 
+
 ### Still here? So get started! 👀
 
 If you want to use this program you can just go to the <a href = "https://github.com/Limitsura/Limi-s-Real-ESRGAN-GUI/releases"> Releases</a> section and find your desired version, download it, then exract it where you like, and done!. You can just run the executable file that's in there! (latest version available is recommended).
 
+‎ 
 
 ### Supported on? 🍋
 
 Currently available only for Windows 10 x64 and only the english language is available.
+
+‎ 
 
 ### Bugs?, please contact me. 🥱
 
 As i said earlier, this project has just borned a few days ago, it is still in development and colud be pretty unstable, so forgive me any issues that this could have.
 Meanwhile you can contact me here, or more preferable, through discord (**limitsura**), as i am more active in there and i read incoming messages as fast as i can.
 
-###### Thanks for viewing this page, as i said any issues that you may encounter can be informed to me through discord or github (i think is in the "issues" section, sorry i never used github before 😅)`
+‎ 
+
+###### Thanks for viewing this page, as i said any issues that you may encounter can be informed to me through discord or github (i think is in the "issues" section, sorry i never used github before 😅)
