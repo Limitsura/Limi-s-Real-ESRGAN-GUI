@@ -18,7 +18,7 @@
 If you want to use this program you can just go to the <a href = "https://github.com/Limitsura/Limi-s-Real-ESRGAN-GUI/releases"> Releases</a> section and find your desired version, download it, then exract it where you like, and done!. You can just run the executable file that's in there! (latest version available is recommended).
 
 Some system requierements:
-1. Minimum available storage space: ~28MB.
+1. Minimum available storage space: ~38MB.
 
 3. Minimum recommended RAM for Real-ESRGAN: ~192MB; Optimal recommended RAM: ~320MB+.
 
